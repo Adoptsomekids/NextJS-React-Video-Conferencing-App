@@ -1,42 +1,57 @@
-<a href="https://livekit.io/">
-  <img src="./.github/assets/livekit-mark.png" alt="LiveKit logo" width="100" height="100">
-</a>
+# Reactjs Tarea libre - Video Conferencing App
 
-# LiveKit Meet
+   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Desarrollo%20Completo-blue)
+   ![Badge](https://img.shields.io/pypi/status/aiogram.svg?style=flat-square)
 
-<p>
-  <a href="https://meet.livekit.io"><strong>Try the demo</strong></a>
-  •
-  <a href="https://github.com/livekit/components-js">LiveKit Components</a>
-  •
-  <a href="https://docs.livekit.io/">LiveKit Docs</a>
-  •
-  <a href="https://livekit.io/cloud">LiveKit Cloud</a>
-  •
-  <a href="https://blog.livekit.io/">Blog</a>
-</p>
+_Emilio Josafat Giacomo Quintero - Programación para Internet 2023B_
 
-<br>
+## Comenzando 🚀
 
-LiveKit Meet is an open source video conferencing app built on [LiveKit Components](https://github.com/livekit/components-js), [LiveKit Cloud](https://livekit.io/cloud), and Next.js. It's been completely redesigned from the ground up using our new components library.
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-![LiveKit Meet screenshot](./.github/assets/livekit-meet.jpg)
+Mira **Deployment** para conocer como desplegar el proyecto.
 
-## Tech Stack
 
-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-- App is built with [@livekit/components-react](https://github.com/livekit/components-js/) library.
+### Pre-requisitos 📋
 
-## Demo
+_Que cosas necesitas para instalar el software_
 
-Give it a try at https://meet.livekit.io.
-
-## Dev Setup
-
-Steps to get a local dev setup up and running:
-
+```
 1. Run `yarn install` to install all dependencies.
 2. Copy `.env.example` in the project root and rename it to `.env.local`.
 3. Update the missing environment variables in the newly created `.env.local` file.
 4. Run `yarn dev` to start the development server and visit [http://localhost:3000](http://localhost:3000) to see the result.
 5. Start development 🎉
+```
+
+## Despliegue 📦
+
+_Deployment desde Vercel /  LiveKit Cloud o localhost_
+
+![image](https://github.com/Adoptsomekids/Video-Conferencing-App/assets/83385717/2a10e576-fd37-4874-8341-0c1bd3e8ab85)
+
+_Start meeting_
+
+![image](https://github.com/Adoptsomekids/Video-Conferencing-App/assets/83385717/73c3189b-19df-427b-8a1c-1c77e9b777e1)
+
+### Pruebas de estilo de codificación ⌨️
+
+_Inserción _
+
+![image](https://github.com/Adoptsomekids/Quiz-VueJS/assets/83385717/9497096f-640b-4c9f-94f2-50eab38d512d)
+
+## Construido con 🛠️
+
+* [NextJS](https://nextjs.org/) - Web development framework
+* [Vercel](https://vercel.com/) -  Hosting platform
+* [LiveKit Cloud](https://livekit.io/cloud) -  WebRTC platform
+* [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código
+* [TypeScript](https://www.typescriptlang.org/) - Programming language
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programming language
+
+## Autor ✒️
+
+* **Emilio Josafat Giacomo Quintero** - *Desarrollo* - [Adoptsomekids](https://github.com/Adoptsomekids)
+
+---
+⌨️ con ❤️ por [Adoptsomekids](https://github.com/Adoptsomekids) 😸
