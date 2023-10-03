@@ -36,9 +36,13 @@ _Start meeting_
 
 ### Pruebas de estilo de codificación ⌨️
 
-_Inserción _
+_Inserción de token_
 
-![image](https://github.com/Adoptsomekids/Quiz-VueJS/assets/83385717/9497096f-640b-4c9f-94f2-50eab38d512d)
+![image](https://github.com/Adoptsomekids/Video-Conferencing-App/assets/83385717/3efe031c-a681-478f-b0d1-49f63eeccf48)
+
+_livekit/components React_
+
+![image](https://github.com/Adoptsomekids/Video-Conferencing-App/assets/83385717/4e7f38d7-e660-47f9-a412-db2a0ca369f8)
 
 ## Construido con 🛠️
 
