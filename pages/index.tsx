@@ -168,10 +168,10 @@ const Home = ({ tabIndex }: InferGetServerSidePropsType<typeof getServerSideProp
       <footer data-lk-theme="default">
         Hosted on{' '}
         <a href="https://livekit.io/cloud?ref=meet" rel="noopener">
-          LiveKit Cloud
+          LiveKit Cloud & Vercel
         </a>
-        . Source code on{' '}
-        <a href="https://github.com/livekit/meet?ref=meet" rel="noopener">
+        . Source code by Emilio Giacomo (Adoptsomekids)on{' '}
+        <a href="https://github.com/Adoptsomekids/Video-Conferencing-App" rel="noopener">
           GitHub
         </a>
         .
