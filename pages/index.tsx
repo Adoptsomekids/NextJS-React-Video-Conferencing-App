@@ -149,7 +149,7 @@ const Home = ({ tabIndex }: InferGetServerSidePropsType<typeof getServerSideProp
         <div className="header">
           <img src="/images/livekit-meet-home.svg" alt="LiveKit Meet" width="360" height="45" />
           <h2>
-            Open source video conferencing app built on{' '}
+            Aplicación de videoconferencia construida con LiveKit Components, LiveKit Cloud{' '}
             <a href="https://github.com/livekit/components-js?ref=meet" rel="noopener">
               LiveKit&nbsp;Components
             </a>
@@ -157,7 +157,7 @@ const Home = ({ tabIndex }: InferGetServerSidePropsType<typeof getServerSideProp
             <a href="https://livekit.io/cloud?ref=meet" rel="noopener">
               LiveKit&nbsp;Cloud
             </a>{' '}
-            and Next.js.
+            y Next.js - By Emilio Giacomo (Adoptsomekids).
           </h2>
         </div>
         <Tabs selectedIndex={tabIndex} onTabSelected={onTabSelected}>
